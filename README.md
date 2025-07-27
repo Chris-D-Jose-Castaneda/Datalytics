@@ -1,12 +1,5 @@
-# React + Vite
+# Datalytics-Tech (NO BACKEND)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here is the Datalytics-Tech site for my business consulting site which I started in June 2022 - Dec. 2023. I've always worked 40+ hours during college while finishing my degree in 5 semesters with an average of 20 credits a semester. I was really passionate about the business as I was able to help over 100 clients over the 1.5 years that I continued the company. While I took down the backend and replaced it with a simple Google Form, the original site was built using Flask as it was still a simple application. Also, the original domain name and business email is gone so that was fun while it lasted. I updated the frontend as there is no remains of screenshots as my old laptop broke which contained them in the local drive which of course was not save :(. Definitely was useful in helping me pay for college at least! 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Site: datalytics-tech.vercel.app
