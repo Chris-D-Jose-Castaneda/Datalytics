@@ -4,4 +4,4 @@ Here is the Datalytics-Tech site for my business consulting site which I started
 
 While I took down the backend and replaced it with a simple Google Form, the original site was built using Flask as it was still a simple application. Also, the original domain name and business email is gone so that was fun while it lasted. I updated the frontend as there is no remains of screenshots as my old laptop broke which contained them in the local drive which of course was not save :(. Definitely was useful in helping me pay for college at least! 
 
-Site: datalytics-tech.vercel.app
+Site: https://datalytics-tech.vercel.app/
